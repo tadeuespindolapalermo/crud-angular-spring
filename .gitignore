@@ -43,3 +43,5 @@ Thumbs.db
 
 .angular/*
 .editorconfig
+.vscode
+.angular
